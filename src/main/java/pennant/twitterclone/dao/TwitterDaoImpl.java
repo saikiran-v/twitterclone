@@ -23,8 +23,9 @@ import pennant.twitterclone.model.Person;
 import pennant.twitterclone.model.Tweet;
 
 /**
- * @author saikiran.v
- *
+* @author saikiran.v
+*	
+*
  */
 @Repository
 @EnableAspectJAutoProxy(proxyTargetClass = true)
